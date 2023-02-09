@@ -1,0 +1,3 @@
+- name has to be non empty
+- main muscle groups has to be non empty
+- no 2 exercises with same name & equipment

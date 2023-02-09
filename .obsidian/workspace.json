@@ -4,18 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "3e81c1b906f62b65",
+        "id": "2cf1085bba4f2499",
         "type": "tabs",
         "children": [
           {
-            "id": "1b92840dccaa8d47",
+            "id": "b1c0765a9214f34d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects/aesthetics/documentation/overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d4fccc5f98a1fcf3",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 246.50260543823242
   },
   "right": {
     "id": "7c3e079f67bc419e",
@@ -138,6 +151,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1b92840dccaa8d47",
-  "lastOpenFiles": []
+  "active": "fefedb09a8a7a275",
+  "lastOpenFiles": [
+    "unsorted/time tracking.md",
+    "README.md",
+    "2023-02-09.md",
+    "projects/aesthetics/documentation/overview.md",
+    "projects/aesthetics/questions/quick questions.md",
+    "projects/aesthetics/anything.md",
+    "projects/aesthetics/documentation/active session/Communication Sessions and Active Session.md",
+    "projects/aesthetics/timeline/timeline.md",
+    "projects/aesthetics/todo.md",
+    "unsorted/anything.md"
+  ]
 }
