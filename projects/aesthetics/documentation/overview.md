@@ -75,6 +75,7 @@ competes with Workout Plan
 ##### Routine
 just calling it routine gives it  clearer distinciton as 'Workout Routine'
 but I don't like the word
+kinda sounds old fashioned, same goes for above
 
 ##### Workout Draft
 props lorena

@@ -77,3 +77,41 @@
 
 **hours working: 4:30**
 *wohnung: 2:50*
+
+### 09.02.2023
+
+12:00 wake up
+12:20 fertig machen
+12:40 aesthetics
+13:00 wiegen, 3d printing and pcb research
+13:10 keyboard business
+13:45 aesthetics, state management
+14:45 aesthetics
+17:35 einkaufen und verrauemen 
+18:30 pizza essen
+19:10 aesthetics - talking on discord
+19:20 getting ready for walking baer
+20:00 walking baer
+00:35 gym, duschen
+01:15 aesthetics
+01:55 food
+02:00 tracking
+03:10 aesthetics
+
+### 11.02.2023
+
+11:10 wake up
+11:25 fertig machen
+11:30 wiegen
+11:40 hund fertig machen und losgehn
+12:30 hund wieder daheim
+13:20 wohnung, kueche, kaffee
+15:00 functional programming studies **1:40**
+17:00 food and nap
+20:30 meeting - state management **3:30**
+20:40 break
+22:00 refactoring UI - reading and notes **1:20**
+23:45 break - uncharted yeyyy
+00:05 food
+01:05 programming - too much of a headache to continue **1:00**
+**hours working: 7:30**

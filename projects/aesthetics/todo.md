@@ -9,3 +9,15 @@
 - [ ] body weight list flex error
 - [ ] snipped stateful ...IsOk to ...AppState
 - [ ] exercise draft move equipment below name, like in most parts in ui where it stays together
+- [ ] rename all exercise state and services and variables exercise -> exercises, to reflect plural nature
+- [ ] check deep copy of WorkoutM (https://stackoverflow.com/a/62097054/14663910)
+- [ ] Markers, is nullable the way?
+- [ ] styles for text fields boxes, etc... create constants and systems
+- [ ] decide on terminology for 'screen' or 'page'
+- [ ] add page folders for libraries or components
+- [ ] fix empty charts - they all look stupid
+- [ ] research postgres view - see if it relates to workout - workout exercise - set relation
+- [ ] relationship workouts - active workout - database calls
+- [ ] primary key generation between offline and online db? avoid conflicts
+- [ ] building my own user object and making a repo for active user?
+- [ ] 

@@ -4,27 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "2cf1085bba4f2499",
+        "id": "27a40cdc8e40128e",
         "type": "tabs",
         "children": [
           {
-            "id": "b1c0765a9214f34d",
+            "id": "280a24298f3e959e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/aesthetics/documentation/overview.md",
+                "file": "projects/aesthetics/ideas/ideas to implement 02.2023.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d4fccc5f98a1fcf3",
+            "id": "8ec6c55591a37872",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "projects/aesthetics/ideas/Changes needing to be done.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "projects/aesthetics/ideas/Changes needing to be done.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,8 +115,19 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "projects/aesthetics/ideas/Changes needing to be done.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3a246290ba907866",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "projects/aesthetics/ideas/Changes needing to be done.md"
               }
             }
           },
@@ -124,14 +140,6 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true
               }
-            }
-          },
-          {
-            "id": "3a246290ba907866",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
             }
           }
         ]
@@ -151,17 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fefedb09a8a7a275",
+  "active": "8ec6c55591a37872",
   "lastOpenFiles": [
-    "unsorted/time tracking.md",
-    "README.md",
-    "2023-02-09.md",
-    "projects/aesthetics/documentation/overview.md",
-    "projects/aesthetics/questions/quick questions.md",
+    "projects/aesthetics/ideas/ideas to implement 02.2023.md",
     "projects/aesthetics/anything.md",
-    "projects/aesthetics/documentation/active session/Communication Sessions and Active Session.md",
-    "projects/aesthetics/timeline/timeline.md",
     "projects/aesthetics/todo.md",
-    "unsorted/anything.md"
+    "projects/aesthetics/timeline/timeline.md",
+    "projects/aesthetics/questions/quick questions.md",
+    "projects/aesthetics/documentation/overview.md",
+    "projects/aesthetics/marketing/online persona.md",
+    "projects/aesthetics/documentation/state store considerations/Workouts and Workout State Considerations.md",
+    "linux/AppImage.md",
+    "coding/nvim/cheat sheet.md"
   ]
 }
