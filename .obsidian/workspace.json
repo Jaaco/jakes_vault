@@ -13,26 +13,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/aesthetics/ideas/ideas to implement 02.2023.md",
+                "file": "projects/aesthetics/documentation/backend/combining online and offline data.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8ec6c55591a37872",
+            "id": "f8347158924a48a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/aesthetics/ideas/Changes needing to be done.md",
+                "file": "projects/aesthetics/documentation/backend/CRDTs and Hybrid Locical Clocks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f519db9f5e4ea404",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects/aesthetics/documentation/backend/CRDTs and Hybrid Locical Clocks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a88baf9ff94f9a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "unsorted/corne changes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49c0e5176854e5e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects/aesthetics/documentation/backend/combining online and offline data.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/aesthetics/ideas/Changes needing to be done.md",
+                "file": "projects/aesthetics/documentation/backend/CRDTs and Hybrid Locical Clocks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/aesthetics/ideas/Changes needing to be done.md",
+                "file": "projects/aesthetics/documentation/backend/CRDTs and Hybrid Locical Clocks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/aesthetics/ideas/Changes needing to be done.md"
+                "file": "projects/aesthetics/documentation/backend/CRDTs and Hybrid Locical Clocks.md"
               }
             }
           },
@@ -159,17 +195,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ec6c55591a37872",
+  "active": "f519db9f5e4ea404",
   "lastOpenFiles": [
+    "projects/aesthetics/documentation/backend/reordering in SQL.md",
+    "projects/aesthetics/documentation/backend/CRDTs and Hybrid Locical Clocks.md",
+    "projects/aesthetics/documentation/backend/combining online and offline data.md",
+    "projects/aesthetics/documentation/backend/backend considerations.md",
+    "unsorted/corne changes.md",
     "projects/aesthetics/ideas/ideas to implement 02.2023.md",
-    "projects/aesthetics/anything.md",
-    "projects/aesthetics/todo.md",
-    "projects/aesthetics/timeline/timeline.md",
-    "projects/aesthetics/questions/quick questions.md",
-    "projects/aesthetics/documentation/overview.md",
-    "projects/aesthetics/marketing/online persona.md",
+    "unsorted/time tracking.md",
+    "unsorted/anything.md",
+    "projects/aesthetics/documentation/backend/supabase.md",
     "projects/aesthetics/documentation/state store considerations/Workouts and Workout State Considerations.md",
-    "linux/AppImage.md",
-    "coding/nvim/cheat sheet.md"
+    "projects/aesthetics/documentation/overview.md",
+    "projects/aesthetics/ideas/UI inspiration.md",
+    "projects/aesthetics/ideas/Changes needing to be done.md"
   ]
 }

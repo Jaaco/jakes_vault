@@ -15,3 +15,9 @@ the relevant actions in the dashboard should be
 - track bodyweight
 
 profile and settings can reside in the outermost 'social' tab.
+
+## additional ideas for the dashboard
+instead of pop ups on click, expand the tiles
+make sure this also makes sense for body weight and so on
+in case of 1 tile per row just expand to make hight 2 rows, in case of 2 in 1 row leave the unexpanded, and expand the expanded around it torwards the bottom, in total height is 2 rows, and size of expanded is 3 tiles, unexpanded 1 tile
+

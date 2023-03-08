@@ -1,0 +1,1 @@
+one button that is number layer on hold, and one shot symbol on double tap, maybe perma symbol layer on triple tap
